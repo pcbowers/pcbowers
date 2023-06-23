@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm P. Christopher Bowers</h1>
+<h1 align="center">Hi 👋, I'm Chris Bowers</h1>
 
 > Need to reach out? _Connect with me at contact@chris.al!_
 
